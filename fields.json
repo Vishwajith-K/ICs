@@ -1,0 +1,18 @@
+{
+	"comments": "-1; area is l*b*h and are in mm; frequency ends with Hz; voltage ends with V; weight ends with g",
+	"IC name": "1",
+	"company": "2",
+	"arch": "3",
+	"u-arch": "4",
+	"family": "5",
+	"peripherals": "6",
+	"packaging pins": "7",
+	"power": "8",
+	"temperature": "9",
+	"area": "11",
+	"boards": "12",
+	"marts": "13",
+	"frequency": "14",
+	"voltage": "15",
+	"weight": "16",
+}
